@@ -37,4 +37,5 @@
 ## Структура проекта
 - `schema.sql` — структура базы данных
 - `queries/` — SQL-запросы
-- `dashboard/` — дашборд DataLens (в процессе)
+- `dashboard/` — дашборд DataLens https://datalens.yandex/h3el8bcnjylw0 - визуализация результатов
+
